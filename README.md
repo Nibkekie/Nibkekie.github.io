@@ -5,7 +5,7 @@
 
 > Santa doesn’t know you like I do ⁺◟🎁  ⸝⸝🕯️*◞🍝。
 
-# Abot Me
+# About Me
 - 🎀 My name is Phetcharat Tongluan 🎀
   - 🎀 Nickname is KeKie 🎀
   - 🎄 Age is 20 🎄
@@ -13,6 +13,7 @@
   - 🚡 Student at Kasetsart University Sriracha Campus 🚡
 
 # Contact
+- 📒 Nisit ID : 6530200746
 - 📒 Phone : 0971123745
 - 📒 Line : pinky3456789
 - 📒 Instagram : [kkkkkkiiieeeeeee](https://www.instagram.com/kkkkkkiiieeeeeee/)
