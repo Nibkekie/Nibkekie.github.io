@@ -1,5 +1,5 @@
 # Nipkekie.github.io
-![kie.png](./img/IMG_9006.jpeg)
+![kie.png](./img1.png)
 - Phetcharat
   - Kekie
  
