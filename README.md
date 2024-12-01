@@ -2,7 +2,9 @@
 ![kie.png](./img/img1)
 
 # 🧤👀 𝚑𝚎𝚕𝚕𝚘* welcome to Nibkekie.github.io
-> Santa doesn’t know you like I do
+
+> Santa doesn’t know you like I do ⁺◟🎁  ⸝⸝🕯️*◞🍝。
+
 # Abot Me
 - 🎀 My name is Phetcharat Tongluan 🎀
   - 🎀 Nickname is KeKie 🎀
