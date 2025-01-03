@@ -18,9 +18,11 @@
 - 📒 Line : pinky3456789
 - 📒 Instagram : [kkkkkkiiieeeeeee](https://www.instagram.com/kkkkkkiiieeeeeee/)
 
-# Ecard Merry 𝙲𝚑𝚛𝚒𝚜𝚝𝚖𝚊𝚜 🎅🏻
+# My homework 🎅🏻
 > 🧣🍪🥛☃･:*｡
 - [ Ecard ](ecard.md)
+- [ Voip ](https://nibkekie.github.io/voip)
+- [ Currency ](https://nibkekie.github.io/currency)
  
 
 
