@@ -37,11 +37,11 @@
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 # Member 👥
-1. Naphop Khumchawna → [To Github Page](https://nutnaphop.github.io/ncsa)
-2. Onnicha Srisaman → [To Github Page](https://momojoj.github.io/ncsa) 
-3. Thawanrat Phitak → [To Github Page](https://tongyeh.github.io/ncsa) 
-4. Habibah Masae → [To Github Page](https://chocokorn.github.io/ncsa) 
-5. Boonphitak Phompetch → [To Github Page](https://mrzcrocodile.github.io/ncsa) 
-6. Phetcharat Thongluan → [To Github Page](https://nibkekie.github.io/ncsa) 
+1. Naphop Khumchawna → [To Github Page](https://nutnaphop.github.io/boardgame)
+2. Onnicha Srisaman → [To Github Page](https://momojoj.github.io/boardgame) 
+3. Thawanrat Phitak → [To Github Page](https://tongyeh.github.io/boardgame) 
+4. Habibah Masae → [To Github Page](https://chocokorn.github.io/boardgame) 
+5. Boonphitak Phompetch → [To Github Page](https://mrzcrocodile.github.io/boardgame) 
+6. Phetcharat Thongluan → [To Github Page](https://nibkekie.github.io/boardgame)
 
 [↩️ Back to profile](README.md)
