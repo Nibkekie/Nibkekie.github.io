@@ -23,6 +23,8 @@
 - [ Ecard ](ecard.md)
 - [ Voip ](https://nibkekie.github.io/voip)
 - [ Currency ](https://nibkekie.github.io/currency)
+- [ Boardgame ](https://nibkekie.github.io/boardgame)
+- [ Security Control ](https://nibkekie.github.io/security_control)
  
 
 
